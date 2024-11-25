@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate student studying Engineering at t
 
 ## 💬 Let's Connect:
 - 💼 [LinkedInhttps://www.linkedin.com/in/emmanuel-awosika-8a7a51217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 🐦 [Twitterhttps://x.com/emperoidC127?t=dPR9rMR5EYDdmKFpxyFFiA&s=09
+- 🐦 [Twitter: (https://x.com/emperoidC127?t=dPR9rMR5EYDdmKFpxyFFiA&s=09)
 - 📧 [Email](mailto:awosikaemmanueldefirst@gmail.com)
 
 Feel free to explore my repositories and get in touch if you’re interested in collaborating or discussing ideas. I’m always open to feedback and learning from the community.
