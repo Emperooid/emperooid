@@ -37,17 +37,12 @@ Welcome to my GitHub profile! I'm a passionate student studying Engineering at t
 - [📁 Machine Learning Practice](https://github.com/yourusername/ml-practice) – My journey into the world of Machine Learning, with experiments and models.
 
 ## 💬 Let's Connect:
-- 💼 [LinkedIn](https://linkedin.com/in/emmanuel-awosika)
-- 🐦 [Twitter](https://twitter.com/emmanuelawosika)
+- 💼 [LinkedInhttps://www.linkedin.com/in/emmanuel-awosika-8a7a51217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🐦 [Twitterhttps://x.com/emperoidC127?t=dPR9rMR5EYDdmKFpxyFFiA&s=09
 - 📧 [Email](mailto:awosikaemmanueldefirst@gmail.com)
 
 Feel free to explore my repositories and get in touch if you’re interested in collaborating or discussing ideas. I’m always open to feedback and learning from the community.
 
 ---
 
-"Continuous learning is the key to progress."
-
-<!---
-Emperooid/Emperooid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Continuous learning is the key to progress"
