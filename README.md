@@ -4,7 +4,7 @@ you can call me emperooid
 Welcome to my GitHub profile! I'm a passionate student studying Engineering at the University of Lagos, with a particular interest in Calculus, Algorithms, and Software Development. I enjoy solving challenging problems and building meaningful projects that have real-world applications.
 
 ## 🌟 A bit about me:
-- 🎓 Currently pursuing Engineering Calculus II at UniLag.
+- 🎓 have degree in systems Engineering unilag.
 - 💻 Learning and growing my skills in Python, C/C++, JavaScript, and Matlab.
 - 🔍 Keen on exploring Machine Learning, Data Science, and their applications in engineering.
 - 🛠️ Building small projects to practice and sharpen my coding and problem-solving skills.
