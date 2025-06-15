@@ -1,73 +1,58 @@
-# 👋 Hi, I'm **Emmanuel Awosika** — you can call me **emperooid**
+👋 Hi, I'm Emmanuel Awosika!...you can call me Emperooid  
 
-![Header Banner](https://via.placeholder.com/1000x250.png?text=Emmanuel+Awosika)
+Welcome to my GitHub profile! I'm a passionate student studying Engineering at the University of Lagos, with a particular interest in Software Development, Web development and Artificial Intelligence. I enjoy solving challenging problems and building meaningful projects that have real-world applications and solves real life problems.
 
----
 
-## 🌟 A bit about me:
-- 🎓 **Systems Engineering student at University of Lagos**
-- 💻 Passionate about **calculus, algorithms, software development, and machine learning**
-- 🔍 Currently exploring **data structures, algorithm design, and ML techniques**
-- 🛠 Always developing small projects to solve problems and grow my coding skills
+🌟 A bit about me:
+. 🎓 I have degree in computer Engineering from Yaba college of Technology.
+. 🎓 I am currently pursuing a degree in Systems Engineering at the University of Lagos.
+. 💻 Learning and growing my skills in Python, C/C++, JavaScript, and Matlab.
+. 🔍 Keen on exploring Machine Learning, Data Science, and their applications in engineering.
+. 🛠️Built numerous small projects and teamed up with groups to solve problems, collaborate on code, and gain hands-on experience..
+. 🌱 Continuously learning and improving through open-source contributions and collaborations.
 
----
 
-## 🛠 Tech Stack:
+🧑‍💻 Technologies & Tools:
+. Languages: Python, C/C++, JavaScript, Matlab
+. Frameworks/Libraries: NumPy, Pandas, Matplotlib, TensorFlow
+. Tools: Git, GitHub, Visual Studio Code, Jupyter Notebooks
+. Interests: Algorithm Design, Numerical Methods, Data Structures, Machine Learning, Artificial Intelligence Applications, Scientific Computing, Software Architecture, and Large-Scale System Design
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd57)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=ffffff)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=ffffff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=ffffff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=ffffff)
+🚀 Current Projects:
+. Automating Workflows with Python: Designing and developing automated solutions to streamline tasks — from web scraping and data processing to report generation — reducing manual effort and improving productivity.
+. Machine Learning Experiments: Experimenting with supervised algorithms and deep models to extract actionable patterns from data, make accurate predictions, and solve real-world problems — strengthening my expertise in AI and data science.
+. Web Development Applications: Building modern, responsive web applications using HTML, CSS, JavaScript, and React. Currently developing a portfolio site and a small task management tool, focusing on clean UI, optimized performance, and enhancing user experience.
+. API Integration and CRUD Operations: Integrating third-party APIs and designing RESTful backends, implementing CRUD functionality, authentication, and state management — all to create dynamic, interactive, and scalable applications.
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff)
-![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 
----
+ 📚 Learning Goals:
+. 🌐 Strengthening My Web Development Skills: Mastering modern JavaScript frameworks (like React), designing scalable backend services,  integrating APIs, and applying  best practices to create robust, interactive, and responsive applications.
+. 🔍 Deepening my knowledge of Data Structures & Algorithms to optimize code and improve performance.
+. 💡 Experimenting with Machine Learning Models, focusing on supervised learning techniques.
+. 📊 Improving my skills in Data Analysis and Visualization using Python libraries such as Pandas and Matplotlib.
 
-## 🚀 Currently Working On:
 
-- **Automating Daily Tasks:** Small Python script to streamline routines, perform web scraping, and process data.
-- **Engineering Calculus Solutions:** Code to solve mathematical problems related to differentiation, integration, and more.
-- **Machine Learning Experiments:** Exploring and implementing models to solve real-world problems with data.
+ 🏆 Achievements:
+. ✅ Won a Hackathon (2025) — Led a team to develop a prize-winning solution in a 24-hour hackathon, designing and implementing a web application that addressed a real-world problem.
+. ✅ Completed several engineering and programming coursework with high grades.
+. 💻 Developed small projects that solve real-world problems using Python.
+. 🌐 Built interactive and scalable web applications — from portfolio sites to task management platforms — using React, JavaScript, HTML, and CSS, and integrating RESTful backends and APIs.
+. 🎖 Actively contributing to open-source projects to broaden my coding skills and collaborate with a community of developers..
 
----
 
-## 📚 Goals:
+ 📂 Notable Repositories:
+. 📁 biaslense : https://github.com/Emperooid/updated-biaselense.git– BiasLens is an open-source text analysis tool born out of a hackathon project and continuously evolving. It provides a Python library and a FastAPI backend to detect and analyze various textual characteristics, with a focus on identifying potential biases, emotional tones, and manipulative patterns. Offering both quick, pattern-based insights and comprehensive, model-driven analysis, BiasLens aims to promote media literacy by providing users with nuanced understanding of text. The project also includes a Next.js frontend for interactive use. Live link: https://biaslens-five.vercel.app 
+. 📁 mediguard-AI : https://github.com/Emperooid/mediguard.git - MediGuard-AI- is an AI-powered healthcare assistant designed to provide users with instant medical information, emergency assistance, and health monitoring tools.
+. 📁 software tracking API : https://github.com/Emperooid/software-tracking-api.git –A Node.js RESTful API for managing users and their subscriptions, built with Express and MongoDB.
+- [📁 gradlink Ai : https://github.com/Emperooid/gradlink--ai.git – GradLink AI is an AI-powered academic and career companion platform designed for university students. It helps users analyze their academic performance, explore career paths, discover opportunities, and manage their educational journey—all in one place.
 
-- 🔍 Master **data structures and algorithms**
-- 📊 Develop skills in **supervised Machine Learning techniques**
-- 🌐 Become proficient in **data analysis and visualization**
+  
+💬 Let's Connect:
+. 💼 [LinkedInhttps: https://www.linkedin.com/in/emmanuel-awosika-8a7a51217
+. 🐦 Twitter:https://x.com/emperoidc127
+. 📧 Email: awosikaemmanueldefirst@gmail.com
 
----
+Feel free to explore my repositories and get in touch if you’re interested in collaborating or discussing ideas. I’m always open to feedback and learning from the community.
 
-## 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophies.vercel.app/?username=yourusername)
-
----
-
-## 📊 GitHub Stats:
-
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
----
-
-## 🌍 Let's connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/emmanuel-awosika-8a7a51217/) 
-[![Twitter (X)](https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=ffffff)](https://x.com/emperoidC127) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:awosikaemmanueldefirst@gmail.com)
-
----
-
-> “Continuous learning is the key to progress.”
-
+"Continuous learning is the key to progress"
