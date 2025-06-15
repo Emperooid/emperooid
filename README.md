@@ -1,9 +1,9 @@
 👋 Hi, I'm Emmanuel Awosika!...you can call me Emperooid  
 
-##Welcome to my GitHub profile! I'm a passionate student studying Engineering at the University of Lagos, with a particular interest in Software Development, Web development and Artificial Intelligence. I enjoy solving challenging problems and building meaningful projects that have real-world applications and solves real life problems.
+## Welcome to my GitHub profile! I'm a passionate student studying Engineering at the University of Lagos, with a particular interest in Software Development, Web development and Artificial Intelligence. I enjoy solving challenging problems and building meaningful projects that have real-world applications and solves real life problems.
 
 
-##🌟 A bit about me:
+## 🌟 A bit about me:
 .🎓 I have degree in computer Engineering from Yaba college of Technology.
 .🎓 I am currently pursuing a degree in Systems Engineering at the University of Lagos.
 .💻 Learning and growing my skills in Python, C/C++, JavaScript, and Matlab.
@@ -12,14 +12,14 @@
 .🌱 Continuously learning and improving through open-source contributions and collaborations.
 
 
-##🧑‍💻 Technologies & Tools:
+## 🧑‍💻 Technologies & Tools:
 . Languages: Python, C/C++, JavaScript, Matlab
 . Frameworks/Libraries: NumPy, Pandas, Matplotlib, TensorFlow
 . Tools: Git, GitHub, Visual Studio Code, Jupyter Notebooks
 . Interests: Algorithm Design, Numerical Methods, Data Structures, Machine Learning, Artificial Intelligence Applications, Scientific Computing, Software Architecture, and Large-Scale System Design
 
 
-##🚀 Current Projects:
+## 🚀 Current Projects:
 . Automating Workflows with Python: Designing and developing automated solutions to streamline tasks — from web scraping and data processing to report generation — reducing manual effort and improving productivity.
 . Machine Learning Experiments: Experimenting with supervised algorithms and deep models to extract actionable patterns from data, make accurate predictions, and solve real-world problems — strengthening my expertise in AI and data science.
 . Web Development Applications: Building modern, responsive web applications using HTML, CSS, JavaScript, and React. Currently developing a portfolio site and a small task management tool, focusing on clean UI, optimized performance, and enhancing user experience.
@@ -34,11 +34,11 @@
 
 
 ## 🏆 Achievements:
-. ✅ Won a Hackathon (2025) — Led a team to develop a prize-winning solution in a 24-hour hackathon, designing and implementing a web application that addressed a real-world problem.
-. ✅ Completed several engineering and programming coursework with high grades.
-. 💻 Developed small projects that solve real-world problems using Python.
-. 🌐 Built interactive and scalable web applications — from portfolio sites to task management platforms — using React, JavaScript, HTML, and CSS, and integrating RESTful backends and APIs.
-. 🎖 Actively contributing to open-source projects to broaden my coding skills and collaborate with a community of developers..
+.- ✅ Won a Hackathon (2025) — Led a team to develop a prize-winning solution in a 24-hour hackathon, designing and implementing a web application that addressed a real-world problem.
+.- ✅ Completed several engineering and programming coursework with high grades.
+.- 💻 Developed small projects that solve real-world problems using Python.
+.- 🌐 Built interactive and scalable web applications — from portfolio sites to task management platforms — using React, JavaScript, HTML, and CSS, and integrating RESTful backends and APIs.
+.- 🎖 Actively contributing to open-source projects to broaden my coding skills and collaborate with a community of developers..
 
 
 ## 📂 Notable Repositories:
