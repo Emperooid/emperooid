@@ -4,12 +4,13 @@ Welcome to my GitHub profile! I'm a passionate student studying Engineering at t
 
 
 🌟 A bit about me:
+
 . 🎓 I have degree in computer Engineering from Yaba college of Technology.
-. 🎓 I am currently pursuing a degree in Systems Engineering at the University of Lagos.
-. 💻 Learning and growing my skills in Python, C/C++, JavaScript, and Matlab.
-. 🔍 Keen on exploring Machine Learning, Data Science, and their applications in engineering.
-. 🛠️Built numerous small projects and teamed up with groups to solve problems, collaborate on code, and gain hands-on experience..
-. 🌱 Continuously learning and improving through open-source contributions and collaborations.
+.🎓 I am currently pursuing a degree in Systems Engineering at the University of Lagos.
+.💻 Learning and growing my skills in Python, C/C++, JavaScript, and Matlab.
+.🔍 Keen on exploring Machine Learning, Data Science, and their applications in engineering.
+.🛠️Built numerous small projects and teamed up with groups to solve problems, collaborate on code, and gain hands-on experience..
+.🌱 Continuously learning and improving through open-source contributions and collaborations.
 
 
 🧑‍💻 Technologies & Tools:
