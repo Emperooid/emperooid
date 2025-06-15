@@ -45,7 +45,7 @@
 - 📁 biaslense : https://github.com/Emperooid/updated-biaselense.git– BiasLens is an open-source text analysis tool born out of a hackathon project and continuously evolving. It provides a Python library and a FastAPI backend to detect and analyze various textual characteristics, with a focus on identifying potential biases, emotional tones, and manipulative patterns. Offering both quick, pattern-based insights and comprehensive, model-driven analysis, BiasLens aims to promote media literacy by providing users with nuanced understanding of text. The project also includes a Next.js frontend for interactive use. Live link: https://biaslens-five.vercel.app 
 - 📁 mediguard-AI : https://github.com/Emperooid/mediguard.git - MediGuard-AI- is an AI-powered healthcare assistant designed to provide users with instant medical information, emergency assistance, and health monitoring tools.
 - 📁 software tracking API : https://github.com/Emperooid/software-tracking-api.git –A Node.js RESTful API for managing users and their subscriptions, built with Express and MongoDB.
-- [📁 gradlink Ai : https://github.com/Emperooid/gradlink--ai.git – GradLink AI is an AI-powered academic and career companion platform designed for university students. It helps users analyze their academic performance, explore career paths, discover opportunities, and manage their educational journey—all in one place.
+- 📁 gradlink Ai : https://github.com/Emperooid/gradlink--ai.git – GradLink AI is an AI-powered academic and career companion platform designed for university students. It helps users analyze their academic performance, explore career paths, discover opportunities, and manage their educational journey—all in one place.
 
   
 ##💬 Let's Connect:
